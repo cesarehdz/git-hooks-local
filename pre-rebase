@@ -1,0 +1,4 @@
+#!/bin/sh
+echo The rebasing is disable
+
+exit 1
